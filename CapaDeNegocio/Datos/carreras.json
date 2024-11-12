@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 0,
+    "nombre": "Bibliotecologia",
+    "sigla": "TSB",
+    "titulo": "Bibliotecario",
+    "duracion": 3
+  },
+  {
+    "ID": 1,
+    "nombre": "Mantenimiento Industrial",
+    "sigla": "TSMI",
+    "titulo": "Tecnico de Nivel Superior en Mantenimiento Industrial",
+    "duracion": 3
+  }
+]
